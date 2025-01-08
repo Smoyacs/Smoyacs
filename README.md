@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smoyacs" alt="smoyacs" /></a> </p>
 
-- 🔭 I’m currently working on [iot-project](https://github.com/Smoyacs/iot_project)
 
-- 🌱 I’m currently learning **ReactJs and Docker**
+- 🌱 I’m currently learning **Ruby and Rails**
 
 - 👯 I’m looking to collaborate on **Projects**
 
